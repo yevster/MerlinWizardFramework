@@ -1,0 +1,9 @@
+<Project DefaultTargets="BuildAdapter" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <Target Name="BuildAdapter">
+    <MSBuild Projects="MerlinStepLibrary\MerlinStepLibrary.csproj"/>
+    <MSBuild Projects="Merlin\Merlin.csproj"/>
+    <MSBuild Projects="Demo\NilremUserManagement\NilremUserManagement.csproj"/>
+  </Target>
+  
+</Project>
