@@ -4,7 +4,7 @@
 
 A framework for easily making wizards in .NET Winforms. Though it is highly flexible, Merlin allows you to create a complete wizard in just a few lines of code.
 
-Merlin was created by Progress Software in 2008-2009 and migrated from CodePlex before the latter's sinking into Lethe. Merlin Wizard Framework is released under the Apache 2.0 License. Check out our blog for the latest news and tutorials. 
+Merlin was created by Progress Software in 2008-2009 and migrated [from CodePlex](http://merlin.codeplex.com) before the latter's sinking into Lethe. Merlin Wizard Framework is released under the Apache 2.0 License. Check out our blog for the latest news and tutorials. 
 
 
 # Documentation
